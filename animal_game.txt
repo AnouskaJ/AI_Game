@@ -1,0 +1,10 @@
+Animal Guessing Game
+You're asked to guess an animal by answering a series of questions.
+
+200 Is it a mammal? (Y/N)
+180 Does it have fur? (Y/N)
+160 It's a dog
+190 It's a cat
+220 Is it a tall animal? (Y/N)
+210 It's a giraffe
+230 It's a kangaroo
